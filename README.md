@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Dhoha-tabouni** is ✨ Special ✨
+**Dhoha-tabouni** is ✨ Special ✨ , I'm a Hydraulic engineering student from Algeria. 
 
 Here are some ideas to get you started:
 
