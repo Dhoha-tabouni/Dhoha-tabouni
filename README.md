@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Prompting in AI
 - 👯 I’m looking to collaborate on : What are the odds ? anything worth the shot !
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dhoha-tabouni/"><img src="https://img.shields.io/static/v1?label=&logo=linkedin&message=linkedin&color=blue"></a>
-- ⚡ Fun fact: "I'm married to a Data-scientist "
+- ⚡ Fun fact: "Fun fact" 
